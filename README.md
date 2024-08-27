@@ -1,4 +1,2 @@
-## Hi there 👋
-
-## It's Peter here!
+## It's Peter here! 👋
 ##🌱 I’m currently learning Python
