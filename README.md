@@ -1,5 +1,7 @@
-## It's Peter here! 👋
-🌱 I’m currently learning Python
+# It's Peter here! 👋
+🎓 I’m currently learning ##python##
+⭐ with passion for ##git, SQL, django##
+🍪 in love with ##AI##
 
 <img src="https://github.com/Ninja2EatYa/Ninja2EatYa/blob/main/wallpaperflare.com_wallpaper%20(10).jpg" align=right>
 
