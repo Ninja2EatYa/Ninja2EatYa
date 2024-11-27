@@ -1,5 +1,5 @@
-# It's Peter here! 👋
-1️⃣ I’m currently learning <font size="20">python</font>  
+## It's Peter here! 😈
+1️⃣ I’m currently learning <strong><span style="font-size: 1.5em;">python</span></strong>  
 2️⃣ with passion for **git, SQL, django**  
 3️⃣ in love with **AI**  
 
