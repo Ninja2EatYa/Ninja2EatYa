@@ -6,6 +6,6 @@
 🎵 powered by ***new wave, synth wave, rap***  
 ☕ and ***cappuccino***  
 
-<img src="https://github.com/Ninja2EatYa/Ninja2EatYa/blob/main/wallpaperflare.com_wallpaper%20(10).jpg" align=right>
+<img src="https://github.com/Ninja2EatYa/Ninja2EatYa/blob/main/IMG_7576.JPG" align=center>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Ninja2EatYa-Python-yellow?logo=codingninjas&logoColor=white">
