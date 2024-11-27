@@ -1,4 +1,4 @@
-# It's Peter here! 😈  
+## It's Peter here! 😈  
 
 1️⃣ I’m currently learning ***python***  
 2️⃣ with passion for ***git, SQL, django***  
