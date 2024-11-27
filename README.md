@@ -1,7 +1,7 @@
 # It's Peter here! 👋
-🎓 I’m currently learning <big>python</big>  
-⭐ with passion for ### **git, SQL, django**  
-🍪 in love with ### **AI**  
+1️⃣ I’m currently learning <font size="4">python</font>  
+2️⃣ with passion for **git, SQL, django**  
+3️⃣ in love with **AI**  
 
 <img src="https://github.com/Ninja2EatYa/Ninja2EatYa/blob/main/wallpaperflare.com_wallpaper%20(10).jpg" align=right>
 
