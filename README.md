@@ -1,7 +1,7 @@
 ## It's Peter here! 😈  
 
 1️⃣ I’m a ***python***-developer  
-2️⃣ I like working with the ***django***-framework, postgres, asyncio, html and css 
+2️⃣ I like working with the ***django***-framework, postgres, asyncio, html and css  
 3️⃣ yet getting closer with the data analysis and machine learning  
 Please feel free to check out my repo
 
