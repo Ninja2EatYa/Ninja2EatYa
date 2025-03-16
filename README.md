@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/768px-2023_Obsidian_logo.svg.png" width="40" height="40"/>
     <img src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" width="40" height="40"/>
-    <img src="https://www.logo.wine/a/logo/DBeaver/DBeaver-Logo.wine.svg" width="40" height="40"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.43022.14342653579960902.940fae20-fb9a-47f6-b71d-9bbb99a5e739.d9a5a219-36c3-4fe6-adc0-90ca5ea32dff?h=307" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
