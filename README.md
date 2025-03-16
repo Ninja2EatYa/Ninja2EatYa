@@ -7,7 +7,10 @@
 ### 💾 stack
 
 ***python, sql, excel***
-<svg role="img" viewBox="0 0 24 24" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 Please feel free to check out and rate my repo with some python-based projects which I wrote basicly for fun.
 
