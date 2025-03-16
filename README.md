@@ -1,4 +1,4 @@
-## Hi! It's Peter here 👾
+## Hi, it's Peter here 👾
 
 ### 📢 about me
 
