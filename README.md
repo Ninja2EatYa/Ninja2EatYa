@@ -11,9 +11,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img src="https://simpleicons.org/?modal=icon&q=obsidian" width="40" height="40"/>
+    <img src="https://forum.obsidian.md/uploads/default/original/2X/6/6df43bc4ee96f0a1b67ff3600caf6879b758a743.png" width="40" height="40"/>
     <img src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" width="40" height="40"/>
-    <img src="https://simpleicons.org/?modal=icon&q=dbeaver" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/768px-2023_Obsidian_logo.svg.png" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
