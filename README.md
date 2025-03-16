@@ -7,6 +7,7 @@
 ### 💾 stack
 
 ***python, sql, excel***
+#3776AB 
 
 Please feel free to check out and rate my repo with some python-based projects which I wrote basicly for fun.
 
