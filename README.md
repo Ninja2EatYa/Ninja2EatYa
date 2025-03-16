@@ -7,7 +7,7 @@
 ### 💾 stack
 
 ***python, sql, excel***
-[#3776AB ](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
+[#3776AB](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
 
 Please feel free to check out and rate my repo with some python-based projects which I wrote basicly for fun.
 
